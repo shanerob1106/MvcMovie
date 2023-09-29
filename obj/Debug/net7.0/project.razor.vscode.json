@@ -24070,6 +24070,31 @@
       "FilePath": "c:\\Users\\shane\\Documents\\Programming\\Dotnet\\mvcmovie\\Views\\HelloWorld\\Welcome.cshtml",
       "TargetPath": "Views\\HelloWorld\\Welcome.cshtml",
       "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\shane\\Documents\\Programming\\Dotnet\\mvcmovie\\Views\\Movies\\Create.cshtml",
+      "TargetPath": "Views\\Movies\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\shane\\Documents\\Programming\\Dotnet\\mvcmovie\\Views\\Movies\\Details.cshtml",
+      "TargetPath": "Views\\Movies\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\shane\\Documents\\Programming\\Dotnet\\mvcmovie\\Views\\Movies\\Edit.cshtml",
+      "TargetPath": "Views\\Movies\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\shane\\Documents\\Programming\\Dotnet\\mvcmovie\\Views\\Movies\\Index.cshtml",
+      "TargetPath": "Views\\Movies\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\shane\\Documents\\Programming\\Dotnet\\mvcmovie\\Views\\Movies\\Delete.cshtml",
+      "TargetPath": "Views\\Movies\\Delete.cshtml",
+      "FileKind": "mvc"
     }
   ]
 }
