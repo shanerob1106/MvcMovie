@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\shane\\Documents\\Programming\\webdevelopment\\MvcMovie\\MvcMovie.csproj": {}
+    "c:\\Users\\shane\\Documents\\Programming\\Dotnet\\mvcmovie\\MvcMovie.csproj": {}
   },
   "projects": {
-    "C:\\Users\\shane\\Documents\\Programming\\webdevelopment\\MvcMovie\\MvcMovie.csproj": {
+    "c:\\Users\\shane\\Documents\\Programming\\Dotnet\\mvcmovie\\MvcMovie.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\shane\\Documents\\Programming\\webdevelopment\\MvcMovie\\MvcMovie.csproj",
+        "projectUniqueName": "c:\\Users\\shane\\Documents\\Programming\\Dotnet\\mvcmovie\\MvcMovie.csproj",
         "projectName": "MvcMovie",
-        "projectPath": "C:\\Users\\shane\\Documents\\Programming\\webdevelopment\\MvcMovie\\MvcMovie.csproj",
+        "projectPath": "c:\\Users\\shane\\Documents\\Programming\\Dotnet\\mvcmovie\\MvcMovie.csproj",
         "packagesPath": "C:\\Users\\shane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\shane\\Documents\\Programming\\webdevelopment\\MvcMovie\\obj\\",
+        "outputPath": "c:\\Users\\shane\\Documents\\Programming\\Dotnet\\mvcmovie\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\shane\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\shane\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
