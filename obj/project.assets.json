@@ -11539,21 +11539,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\shane\\Documents\\Programming\\Dotnet\\mvcmovie\\MvcMovie.csproj",
+      "projectUniqueName": "C:\\Users\\shane\\Documents\\Programming\\WebDevelopment\\MvcMovie\\MvcMovie.csproj",
       "projectName": "MvcMovie",
-      "projectPath": "c:\\Users\\shane\\Documents\\Programming\\Dotnet\\mvcmovie\\MvcMovie.csproj",
+      "projectPath": "C:\\Users\\shane\\Documents\\Programming\\WebDevelopment\\MvcMovie\\MvcMovie.csproj",
       "packagesPath": "C:\\Users\\shane\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\shane\\Documents\\Programming\\Dotnet\\mvcmovie\\obj\\",
+      "outputPath": "C:\\Users\\shane\\Documents\\Programming\\WebDevelopment\\MvcMovie\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\shane\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\shane\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
